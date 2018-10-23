@@ -1,0 +1,19 @@
+{
+  "name": "clicky-game",
+  "version": "1.0.0",
+  "description": "clicky Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amansharma04/Clicky-game.git"
+  },
+  "author": "Amandeep Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amansharma04/Clicky-game/issues"
+  },
+  "homepage": "https://github.com/amansharma04/Clicky-game#readme"
+}
